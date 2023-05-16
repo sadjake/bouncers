@@ -1,6 +1,4 @@
 // Bouncers with ArrayLists
-// Jake Choi
-// Oct 1, 2021
 
 ArrayList<Bouncer> bouncers;
 
